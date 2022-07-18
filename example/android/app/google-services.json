@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820134648228",
+    "project_id": "mpc-wallet-6a4b0",
+    "storage_bucket": "mpc-wallet-6a4b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820134648228:android:c218d3cf94718088d48931",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820134648228-idot3lc25n6uh4b84pvpnuc0oleju9d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ivIZsHHc75W5GopUeTiZQUQF-ysbex0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820134648228-idot3lc25n6uh4b84pvpnuc0oleju9d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
